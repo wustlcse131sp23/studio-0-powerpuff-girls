@@ -6,5 +6,6 @@ public class Message {
 		System.out.println("Say hi to your group mates!");
 		System.out.println("I love the powerpuff girls and professor X");
 		System.out.println("i miss my lavander matcha latte :(");
+		System.out.println("sprite tastes better anyways, but yeah matcha go brrrr");
 	}
 }
